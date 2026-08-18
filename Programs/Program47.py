@@ -18,7 +18,7 @@ def main():
 
     print("Data After Filter : ", fData)
        
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
 
 
